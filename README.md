@@ -1,22 +1,24 @@
 # Hi, I'm Fatai Azeez 👋
 
-### Aspiring DevOps Engineer | Linux | AWS | Docker | CI/CD
+### Junior DevOps Engineer | Linux | AWS | Docker | CI/CD
 
-I'm an aspiring DevOps Engineer passionate about **Linux, cloud infrastructure, automation, containers, and CI/CD**.
+I'm a Junior DevOps Engineer focused on **Linux, cloud infrastructure, automation, containers, and CI/CD**.
 
-I'm currently building hands-on projects to develop my practical skills and understand how applications are **built, containerized, deployed, and automated**.
+I build hands-on projects to develop practical DevOps skills and understand how applications are **built, containerized, deployed, and automated**.
 
 ---
 
 ## 🧰 Skills
 
-**Linux:** Linux, Ubuntu, Bash
-**Cloud:** AWS, EC2
-**Containers:** Docker, Docker Compose, GHCR
-**CI/CD:** GitHub Actions, CI/CD pipelines
-**Automation:** Ansible
-**Web:** Nginx, HTTP
-**Version Control:** Git, GitHub, SSH
+* Linux / Ubuntu & Bash
+* AWS & EC2
+* Docker & Docker Compose
+* Git & GitHub
+* GitHub Actions & CI/CD
+* GitHub Container Registry (GHCR)
+* Nginx
+* SSH
+* Ansible
 
 ---
 
@@ -24,7 +26,7 @@ I'm currently building hands-on projects to develop my practical skills and unde
 
 ### 🖥️ DevOps Portfolio
 
-My personal portfolio website and hands-on DevOps project.
+A personal portfolio website and hands-on DevOps project.
 
 **Built with:** HTML, CSS, JavaScript, Docker, Docker Compose, Nginx, Git & GitHub.
 
@@ -46,4 +48,5 @@ Git → GitHub → GitHub Actions → Docker → GHCR → AWS EC2 → Nginx
 ---
 
 ### ⚡ Learn by building. Automate what you can. Keep improving.
+
 
