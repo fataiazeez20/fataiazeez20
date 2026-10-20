@@ -43,7 +43,7 @@ Git → GitHub → GitHub Actions → Docker → GHCR → AWS EC2 → Nginx
 ## 🤝 Connect With Me
 
 📧 **Email:** [fataiazeez2026@gmail.com](mailto:fataiazeez2026@gmail.com)
-💻 **GitHub:** [@fataiazeez20](https://github.com/fataiazeez20)
+💻 **Linkedin:** [@fataiazeez26](https://linkedin.com/in/fataiazeez26)
 
 ---
 
